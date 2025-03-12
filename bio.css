@@ -1,0 +1,41 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    body {
+        font-family: 'Arial', sans-serif;
+        line-height: 1.6;
+        padding: 20px;
+        background-color: #198ca0;
+        }
+        header {
+        text-align: center;
+        margin-bottom: 20px;
+        }
+      .profile-img {
+        width:100px;
+        height: auto;
+        text-align: center
+         }
+    h1 {
+        margin-top: 10px;
+        }
+        .bio, .projects {
+        margin-bottom: 20px;
+        }
+        a {
+        color: #333;
+        text-decoration: underline;
+        }
+        footer {
+        text-align: center;
+        color: #811111;
+        margin-top: 20px;
+        }
+        a:hover {
+            text-decoration: underline;
+            }
+            
+    
