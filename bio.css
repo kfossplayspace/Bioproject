@@ -33,13 +33,10 @@
           text-align: center;
           text-decoration: none;
           }
-
         a {
         color: #333;
-        text-decoration: underline;
-        ul.no-bullet {
-           list-style-type: none;
-        }
+        text-decoration: underline;}
+       ul{text-decoration: none;}
         footer {
         text-align: center;
         color: #811111;
