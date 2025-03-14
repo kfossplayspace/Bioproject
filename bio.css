@@ -36,7 +36,7 @@
         a {
         color: #333;
         text-decoration: underline;}
-       ul{text-decoration: none;}
+      
         footer {
         text-align: center;
         color: #811111;
@@ -45,6 +45,7 @@
         a:hover {
             text-decoration: underline;
             }
+            ul{text-decoration: none;}
         
             
     
