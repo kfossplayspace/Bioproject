@@ -35,6 +35,8 @@
         a {
         color: #333;
         text-decoration: underline;
+        ul {
+           list-style-type: none;
         }
         footer {
         text-align: center;
